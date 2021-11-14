@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="066cbf23-3c64-4014-8769-5b06947541f5" name="117" url="http://192.168.31.181">
+        <fileTransfer rootFolder="/home/xdwan" accessType="SFTP" host="192.168.31.181" port="22" sshConfigId="d50131ef-d27c-4246-a1ab-50f101a6b943" sshConfig="xdwan@192.168.31.181:22 password">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" muteSftpMessages="true" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

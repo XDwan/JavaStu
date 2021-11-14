@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.168.31.181" id="d50131ef-d27c-4246-a1ab-50f101a6b943" port="22" nameFormat="DESCRIPTIVE" username="xdwan" />
+    </configs>
+  </component>
+</project>
