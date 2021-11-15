@@ -10,7 +10,7 @@ public class C2109_4 {
     static int k;
 
     static double dfs(int status, int times, int cnt, int sum, double l) {
-        //              状态     抽卡次数     积攒硬币   有效次数  当前概率
+        //              状态     抽卡次数     积攒硬币   有效次数  当前重复概率
 //        System.out.println("status:"+Integer.toBinaryString(status)+" times:"+times+" cnt:"+cnt+" sum:"+sum+" l:"+l);
         if (dis[status][times]) return dp[status][times];
         dis[status][times] = true;
